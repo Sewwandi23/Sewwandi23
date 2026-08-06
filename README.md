@@ -1,105 +1,73 @@
-<h1 align="center">Hi 👋, I'm Nimesha Ariyadasa</h1>
-<h3 align="center">Software Engineering Enthusiast | MERN Stack Developer</h3>
+# Hi 👋 I'm Nimesha Ariyadasa
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sewwandi23&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 👩‍💻 About Me
+### 💻 About Me
 
 🎓 IT Undergraduate at SLIIT
 
 💻 Passionate about Software Engineering
 
-🌱 Currently learning Spring Boot & Cloud Computing
-
 🚀 MERN Stack Developer
 
-📚 Interested in Backend Development
+☕ Java & Spring Boot Developer
 
-💡 Always learning new technologies
+☁️ Currently learning Cloud Computing
+
+📫 **Email:** nimeshasewwandi042323@gmail.com
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/nimesha-ariyadasa
 
 ---
 
 ## 🛠 Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-- Java
-- JavaScript
-- Python
-- SQL
-
-### Frontend
-
-- React
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
-
-### Backend
-
-- Node.js
-- Express.js
-- Spring Boot
-
-### Database
-
-- MongoDB
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-- Postman
+<p>
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
+### 🎨 Frontend
 
-### 🎓 Tutor Booking & Management System
-
-- MERN Stack
-- Authentication
-- Category Management
-- Booking System
-
-### 📚 Library Management System
-
-- Java
-- Spring Boot
-- MySQL
-
-### 🤖 AI Photo Tagging System
-
-- Python
-- Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### ⚙️ Backend
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sewwandi23&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sewwandi23&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sewwandi23&theme=tokyonight)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+<img src="https://skillicons.dev/icons?i=express" height="45"/>
+<img src="https://skillicons.dev/icons?i=spring" height="45"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+### 🗄 Database
 
-📧 nimeshasewwandi042323@gmail.com
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+</p>
 
-💼 LinkedIn:
-www.linkedin.com/in/nimesha-ariyadasa
+---
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+<img src="https://skillicons.dev/icons?i=idea" height="45"/>
+<img src="https://skillicons.dev/icons?i=postman" height="45"/>
+</p>
