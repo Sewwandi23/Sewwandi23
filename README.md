@@ -1,28 +1,42 @@
-# Hi 👋 I'm Nimesha Ariyadasa
+<h1 align="center">Hi 👋, I'm Nimesha Ariyadasa</h1>
+<h3 align="center">Software Engineering Enthusiast | MERN Stack Developer</h3>
 
-## 💻 About Me
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sewwandi23&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- 🎓 IT Undergraduate at SLIIT
-- 🌱 Learning Software Engineering
-- 🚀 MERN Stack Developer
-- ☕ Java & Spring Boot
-- 📚 Currently learning Cloud Computing
+---
+
+## 👩‍💻 About Me
+
+🎓 IT Undergraduate at SLIIT
+
+💻 Passionate about Software Engineering
+
+🌱 Currently learning Spring Boot & Cloud Computing
+
+🚀 MERN Stack Developer
+
+📚 Interested in Backend Development
+
+💡 Always learning new technologies
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Java
+- JavaScript
+- Python
+- SQL
 
 ### Frontend
 
 - React
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Bootstrap
 - Tailwind CSS
 
@@ -42,26 +56,50 @@
 - Git
 - GitHub
 - VS Code
-- Postman
 - IntelliJ IDEA
+- Postman
+
+---
+
+## 📂 Featured Projects
+
+### 🎓 Tutor Booking & Management System
+
+- MERN Stack
+- Authentication
+- Category Management
+- Booking System
+
+### 📚 Library Management System
+
+- Java
+- Spring Boot
+- MySQL
+
+### 🤖 AI Photo Tagging System
+
+- Python
+- Machine Learning
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sewwandi23&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sewwandi23&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sewwandi23&theme=tokyonight)
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-- LinkedIn
-- Email
+📧 nimeshasewwandi042323@gmail.com
+
+💼 LinkedIn:
+www.linkedin.com/in/nimesha-ariyadasa
