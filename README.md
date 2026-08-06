@@ -1,4 +1,8 @@
-# Hi 👋 I'm Nimesha Ariyadasa
+<h1 align="center">Hi 👋 I'm Nimesha Ariyadasa</h1>
+
+<h3 align="center">
+Software Engineering Enthusiast | MERN Stack Developer
+</h3>
 
 ### 💻 About Me
 
